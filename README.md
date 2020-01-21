@@ -1,3 +1,2 @@
 # babybird
-PC game made in Java where the player controls a bird, attempting to fly between columns of pipes without hitting them.
-Passing through narrow gaps between pipes get you more points.
+Baby bird is a side-scrolling PC game made in Java with 2D graphics where the player controls a bird that is continously moving to the right, attempting to fly between columns of pipes without hitting them. Gravity effect makes gameplay more fun. Points earned for passing between pipes are dependent on the gap between the pipes. The narrower the gap between pipes, the more points you get. Added functionality to save all time highest score even after the game is closed. Players gets multiple lives and can replay the game after all lives are lost. Added sound effects for imporved gameplay. 
